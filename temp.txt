@@ -1,0 +1,16 @@
+usb-046d_Logitech_BRIO_7A5136C9-video-index0
+usb-046d_Logitech_BRIO_7A5136C9-video-index1
+usb-046d_Logitech_BRIO_7A5136C9-video-index2
+usb-046d_Logitech_BRIO_7A5136C9-video-index3
+usb-046d_Logitech_BRIO_824DE5A3-video-index0
+usb-046d_Logitech_BRIO_824DE5A3-video-index1
+usb-046d_Logitech_BRIO_824DE5A3-video-index2
+usb-046d_Logitech_BRIO_824DE5A3-video-index3
+usb-046d_Logitech_BRIO_D08617B3-video-index0
+usb-046d_Logitech_BRIO_D08617B3-video-index1
+usb-046d_Logitech_BRIO_D08617B3-video-index2
+usb-046d_Logitech_BRIO_D08617B3-video-index3
+usb-046d_Logitech_BRIO_E64237B1-video-index0
+usb-046d_Logitech_BRIO_E64237B1-video-index1
+usb-046d_Logitech_BRIO_E64237B1-video-index2
+usb-046d_Logitech_BRIO_E64237B1-video-index3

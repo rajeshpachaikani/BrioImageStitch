@@ -29,13 +29,10 @@ def get_remaining_space():
 @app.get("/", response_class=HTMLResponse)
 async def root(request: Request):
     t = datetime.now()
-    # BW.write_images()
-    status = "FIle asdf jl asd wri"
+    status = BW.write_images()
+
     memory_usage = get_remaining_space()
     t = datetime.now() - t
     return templates.TemplateResponse("index.html", {"request": request, "timestamp":t, "memory_usage":memory_usage, "status": status})
 
 
-@app.get("/items/{id}", response_class=HTMLResponse)
-async def read_item(request: Request, id: str):
-    return templates.TemplateResponse("item.html", {"request": request, "id": id})
